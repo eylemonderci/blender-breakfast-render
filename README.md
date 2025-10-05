@@ -56,7 +56,7 @@ Render, Blender’da kendi teknik becerilerimi geliştirmek ve gözlem yeteneği
 
 ---
 
- **Hazırlayan:** [Eylem Önderci]  
+ **Hazırlayan:** Eylem Önderci 
 
 
 
