@@ -24,7 +24,7 @@ Render, öğrenme sürecinde ışık davranışlarını, gölge geçişlerini ve
 
 ##  Öğrenme Hedefleri
 
-- **Işık yerleşimi** ve **gölge dengesini** doğru şekilde kurmak
+- **Işık yerleşimi** ve **gölge dengesini** korumak
 - **Kumaş (cloth) simülasyonu** denemesi yapmak  
 - **Metal** ve **yiyecek materyalleri** üzerinde gerçekçi yüzeyler oluşturmak  
 - Küçük ama **doğal ve dengeli** bir sahne kompozisyonu oluşturmak  
