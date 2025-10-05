@@ -10,7 +10,7 @@ Render, öğrenme sürecinde ışık davranışlarını, gölge geçişlerini ve
 
 ---
 
-##  Render Özeti
+## Özet 
 
 | Bilgi Türü | Açıklama |
 |:--|:--|
